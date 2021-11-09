@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: left;
+  justify-content: center;
+  background: center / cover no-repeat url(/images/simple_bg.jpg);
+}
+h3 {
+  color: yellow;
+  margin-left: 6%;
+  font-size: 40px;
+  margin-top: 10%;
+}
+#fun_facts {
+  color: lightgray;
+  font-weight: bold;
+  font-size: 20px;
+  margin-right: 55%;
+  text-align: center;
+}
+h4 {
+  color: yellow;
+  margin-left: 2%;
+}
